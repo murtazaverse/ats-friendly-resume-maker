@@ -1,0 +1,178 @@
+{
+    "education": [
+        {
+            "degree": "Masters of Data Science",
+            "university": "University of Potsdam",
+            "location": "Potsdam, Germany",
+            "year": "Oct 2023 - Oct 2025"
+        },
+        {
+            "degree": "Bachelors of Computer Systems",
+            "university": "NED University of Engineering and Technology",
+            "location": "Karachi, Pakistan",
+            "year": "Oct 2017 - Oct 2021"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Python Django Developer",
+            "company": "Bitswits (Pvt.) Ltd.",
+            "location": "Karachi, Pakistan",
+            "duration": "Jun 2023 - Sep 2023",
+            "description": [
+                "Led a team of Python developers, improving project eﬃciency by 45% with best practices and collaboration.",
+                "Introduced new features in the team such as docker, which boosted the code reliability by 70%",
+                "Collaborated with stakeholders and managers on project needs, boosted communication skills by 45%.",
+                "Initiated 'pull request' schema in my team to enhance codebase efficiency by 90%.",
+                "Provided technical guidance, conducted code reviews, and resolved challenges to ensure high-quality code. Mentored junior developers and improved their skills by 55%."
+            ]
+        },
+        {
+            "title": "Python Developer",
+            "company": "Smart Box",
+            "location": "Karachi, Pakistan",
+            "duration": "Jun 2022 - Jun 2023",
+            "description": [
+                "Engineered a robust and highly scalable back-end architecture using Python and Django REST framework for 'Udhaar Book', outperforming 80% of business apps in Pakistan.",
+                "Collaborated with Data Scientists to perform data analysis and implemented three NLP-based security layers in the Know Your Customer section of transactional features, resulting in a 70% reduction in fraudulent users.",
+                "Improved functionality with new features: Wallet, Loan Architecture, Marketplace, and User Veriﬁcation; resulting in a 75% increase in user count.",
+                "Introduced best practices for Python, leading to 25% reduction in bugs and enhancing overall code reliability.",
+                "Improved user experience by implementing asynchronous calls using celery, resulting in a 50% reduction in loading times and enhancing app responsiveness."
+            ]
+        },
+        {
+            "title": "Artificial Intelligence Trainee",
+            "company": "Saltec Smart Power",
+            "location": "Karachi, Pakistan",
+            "duration": "Jan 2022 - May 2022",
+            "description": [
+                "Built a desktop application using Sklearn (Linear Regression, Random Forest) and Tkinter to predict generator fuel consumption. This resulted in a 35% cost saving for the company.",
+                "Used device data to optimize hardware performance and implemented preventive measures.",
+                "Developed machine learning models to detect fuel theft and unusual battery consumption. Forecasted monthly power consumption using time series model. Automated 15% of staff using Python, Anaconda, SQL, and Excel."
+            ]
+        },
+        {
+            "title": "Trainee Software Engineer",
+            "company": "Xolva (Pvt.) Ltd.",
+            "location": "Karachi, Pakistan",
+            "duration": "Jun 2021 - Jan 2022",
+            "description": [
+                "Leveraged expertise in Python-Django, RDBMS, Data Analysis, and Git to design and implement new modules for a Journals Management System (JMS).",
+                "Integrated new modules seamlessly into the existing system, ensuring smooth functionality.",
+                "Utilized SQL proficiency to optimize database queries, improving system performance by 30%."
+            ]
+        },
+        {
+            "title": "Data Science and Business Analytics Intern",
+            "company": "The Sparks Foundation",
+            "location": "Karachi, Pakistan",
+            "duration": "Jul 2021 - Aug 2021",
+            "description": [
+                "Obtained practical expertise in Machine Learning and Data Analysis through hands-on projects.",
+                "Created engaging instructional videos to educate peers on data science concepts."
+            ]
+        },
+        {
+            "title": "Data Science Intern",
+            "company": "Xolva (Pvt.) Ltd.",
+            "location": "Karachi, Pakistan",
+            "duration": "Oct 2020 - Nov 2022",
+            "description": [
+                "Conducted exploratory data analysis (EDA) to understand data distributions and identify patterns.",
+                "Learned the best coding practices and improved my skills by 50%."
+            ]
+        }
+    ],
+    "skills": [
+        "Programming Languages: Python, SQL, NoSQL, Java, JavaScript, HTML, CSS",
+        "Conceptual Skills: Object Oriented Programming (OOP), Deep Learning, Databases, R-DBMS, Natural Language Processing (NLP), Large Language Models* (LLM), Image Processing, Exploratory Data Analysis (EDA), Git, Linux, REST APIs, Statistics",
+        "Frameworks and Libraries: Pytorch, Django, Tensorflow, Sklearn, Numpy, Pandas, Matplotlib, OpenCV, Docker, Apache Spark"
+    ],
+
+    "certifications" : [
+        {
+            "title" : "Deep Learning with Tensorflow 2",
+            "link" : "<a href=\"https://learn.365datascience.com/c/4552c6cf51\" color=\"blue\">(365 Data Science)</a>"
+        },
+        
+        {
+            "title" : "Statistics for Data Science",
+            "link" : "<a href=\"https://olympus1.mygreatlearning.com/course_certificate/FUKPLZHW\" color=\"blue\">(Great Learning)</a>"
+        },
+
+        {
+            "title" : "Machine Learning A-Z: AI, Python & R",
+            "link" : "<a href=\"https://www.udemy.com/certificate/UC-b476afe5-2e71-4a2c-a9f8-98f3f405afac\" color=\"blue\">(Udemy)</a>"
+        },
+
+        {
+            "title" : "Deep Learning Essentials",
+            "link" : "<a href=\"https://10pearlsuniversity.org/view-certificate/?cid=10PUC-1eb8475595858bddafe3843187f511bc9e74c870d3b9d42d25037781\" color=\"blue\">(10 pearls university)</a>"
+        },
+
+        {
+            "title" : "Data Science Toolbox Part 1",
+            "link" : "<a href=\"https://www.datacamp.com/statement-of-accomplishment/course/fdc8a7e1b910fa0277321dd667ffbb6e3e45264d?raw=1\" color=\"blue\">(Datacamp)</a>"
+        },
+
+        {
+            "title" : "Data Science Toolbox Part 2",
+            "link" : "<a href=\"https://www.datacamp.com/statement-of-accomplishment/course/595a9acf0702e916a0b87d7852ab5f12904ff352?raw=1\" color=\"blue\">(Datacamp)</a>"
+        }
+    ],
+
+    "achievements" : [
+        {
+            "title" : "<h5>Third Position in Bachelors</h5>",
+            "awarding_institute" : "<u>NED University of Engineering and Technology</u>",
+            "description" : "Achieved the third position in the 'Computer Systems' department with an outstanding CGPA of 3.633 out of 4.0."
+        },
+
+        {
+            "title" : "<h5>Runner Up in IEEE-YESIST 12 competition</h5>",
+            "awarding_institute" : "<u>IEEE</u>",
+            "description" : "Secured the second prize for my team's ﬁnal year project, 'Dental Cavity Detection', in a highly competitive competition that featured over 100 projects from 23 countries, including Japan, India, Bangladesh, and several others."
+        },
+
+        {
+            "title" : "<h5>IGNITE NGIRI Project Funding</h5>",
+            "awarding_institute" : "<u>IGNITE</u>",
+            "description" : "My team's Final Year Project (FYP) 'Dental Cavity Detection System' was chosen as one of the two selected projects to receive IGNITE FYP Funding, recognizing its exceptional innovation and potential impact."
+        }
+    ],
+
+    "languages" : [
+        "Language: English, Proficiency: C1",
+        "Language: German, Proficiency: A1",
+        "Language: Urdu, Proficiency: C2"
+    ],
+
+    "interpersonal_skills" : [
+        "Leadership",
+        "Teamwork",
+        "Communication",
+        "Motivation",
+        "Responsibility"
+    ],
+
+    "volunteer_works" : [
+        {
+            "title": "Healthcare Volunteer",
+            "company": "Jinnah Post Graduate Medical Centre",
+            "location": "Karachi, Pakistan",
+            "duration": "Feb 2020 - Mar 2020",
+            "description": [
+                "Assisted in arranging World Kidney Day's checkup panels.",
+                "Conducted routine feedbacks from patients' attendants and conveyed complaints to the authorities.",
+                "Department wise evaluated behaviors of workers with patients and their attendants."
+            ]
+        }
+    ],
+
+    "passions" : [
+        "Sports",
+        "Travelling", 
+        "Movies",
+        "Mathematics"
+    ]
+}
