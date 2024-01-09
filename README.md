@@ -20,7 +20,7 @@ To use this project, follow these steps:
 4. Add your data to the data.json file. You can use the sample data as a reference.
 5. Add your picture to the directory where the "my_picture.jpg" file is placed. Make sure the picture is a jpg file and not png or any other format.
 6. Run the main.py file. (python main.py)
-7. A file named "resume.pdf" will be created in the same directory. This is your ATS Friendly Resume with your picture.
+7. A file named "<your-name>.pdf" will be created in the same directory. This is your ATS Friendly Resume with your picture.
 
 ## Example
 
