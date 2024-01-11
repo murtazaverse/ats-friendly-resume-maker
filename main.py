@@ -315,7 +315,7 @@ if __name__ == "__main__":
     author = 'Syed Muhammad Murtaza Ali Zaidi'
     email = "<a href='mailto:{email}' color=\"blue\">murtazazaidi1@outlook.com</a>"
     address = '<a href=\"https://murtazaverse.github.io/tech/\" color=\"blue\">(Portfolio website)</a>'
-    phone = "<a href='tel:{phone}' color=\"blue\">+49 1556 6247907</a>"
+    phone = "<a href='tel:{phone}' color=\"blue\">+49 1772 754780</a>"
     
     if (os.path.isfile('./config.ini')):
         config = configparser.ConfigParser()
